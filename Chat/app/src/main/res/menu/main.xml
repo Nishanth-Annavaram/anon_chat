@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/edit_profile"
+        android:title="Edit profile" />
+    <item
+        android:id="@+id/search_users"
+        android:title="Search users" />
+    <item
+        android:id="@+id/search_by_interests"
+        android:title="Search users based on interests" />
+
+    <item
+        android:id="@+id/menu_logout"
+        android:title="log out" />
+
+
+</menu>
